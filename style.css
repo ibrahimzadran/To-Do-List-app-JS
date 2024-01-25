@@ -110,3 +110,13 @@ ul li span{
 ul li span:hover{
     background: #edeef0;
 }
+
+#ibrahim {
+    background:linear-gradient(135deg,#153677,#4e085f);
+    display: flex;
+    align-items: center;
+    margin-bottom: 0x;
+    font-style: italic;
+    color: #edeef0;
+    
+}
